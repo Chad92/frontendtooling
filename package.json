@@ -1,0 +1,27 @@
+{
+  "name": "frontend-tooling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chad92/frontendtooling.git"
+  },
+  "author": "Chad ghobara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chad92/frontendtooling/issues"
+  },
+  "homepage": "https://github.com/Chad92/frontendtooling#readme",
+  "dependencies": {
+    "vite": "^4.4.9"
+  },
+  "devDependencies": {
+    "eslint": "^8.50.0"
+  }
+}
